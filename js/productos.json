@@ -2,7 +2,7 @@
     {
         "id": "maceta01",
         "titulo": "Maceta 01",
-        "imagen": "./Images/Maceta1.jpg",
+        "imagen": "./Images/maceta1.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
@@ -13,7 +13,7 @@
     {
         "id": "maceta02",
         "titulo": "Maceta 02",
-        "imagen": "./Images/Maceta2.jpg",
+        "imagen": "./Images/maceta2.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
@@ -24,7 +24,7 @@
     {
         "id": "maceta03",
         "titulo": "Maceta 04",
-        "imagen": "./Images/Maceta4.jpg",
+        "imagen": "./Images/maceta4.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
@@ -35,7 +35,7 @@
     {
         "id": "maceta04",
         "titulo": "Maceta 05",
-        "imagen": "./Images/Maceta5.jpg",
+        "imagen": "./Images/maceta5.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
@@ -46,7 +46,7 @@
     {
         "id": "maceta05",
         "titulo": "Maceta 06",
-        "imagen": "./Images/Maceta6.jpg",
+        "imagen": "./Images/maceta6.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
@@ -57,7 +57,7 @@
     {
         "id": "maceta06",
         "titulo": "Maceta 07",
-        "imagen": "./Images/Maceta7.jpg",
+        "imagen": "./Images/maceta7.jpg",
         "categoria":{
             "nombre": "Macetas",
             "id":"macetas"
