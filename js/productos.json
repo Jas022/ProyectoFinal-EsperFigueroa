@@ -231,39 +231,7 @@
         "precio": 300
 
     },
-    {
-        "id": "sahumerios06",
-        "titulo": "Bombas01",
-        "imagen": "./Images/bombas1.jpg",
-        "categoria":{
-            "nombre": "Sahumerios",
-            "id":"sahumos"
-        },
-        "precio": 300
-
-    },
-    {
-        "id": "sahumerios07",
-        "titulo": "Bombas01",
-        "imagen": "./Images/bombas1.jpg",
-        "categoria":{
-            "nombre": "Sahumerios",
-            "id":"sahumos"
-        },
-        "precio": 300
-
-    },
-    {
-        "id": "sahumerios08",
-        "titulo": "Bombas01",
-        "imagen": "./Images/bombas1.jpg",
-        "categoria":{
-            "nombre": "Sahumerios",
-            "id":"sahumos"
-        },
-        "precio": 300
-
-    },
+    
     {
         "id": "sahumerios09",
         "titulo": "Bombas02",
