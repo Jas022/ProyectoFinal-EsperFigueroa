@@ -79,7 +79,7 @@ aside {
     background-color:#f0aba4;
     position: sticky;
     top:0;
-    height: 56vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
