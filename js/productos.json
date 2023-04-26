@@ -1,0 +1,400 @@
+[
+    {
+        "id": "maceta01",
+        "titulo": "Maceta 01",
+        "imagen": "./Images/Maceta1.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "maceta02",
+        "titulo": "Maceta 02",
+        "imagen": "./Images/Maceta2.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "maceta03",
+        "titulo": "Maceta 04",
+        "imagen": "./Images/Maceta4.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "maceta04",
+        "titulo": "Maceta 05",
+        "imagen": "./Images/Maceta5.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "maceta05",
+        "titulo": "Maceta 06",
+        "imagen": "./Images/Maceta6.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "maceta06",
+        "titulo": "Maceta 07",
+        "imagen": "./Images/Maceta7.jpg",
+        "categoria":{
+            "nombre": "Macetas",
+            "id":"macetas"
+        },
+        "precio": 800
+
+    },
+    {
+        "id": "sahumerios01",
+        "titulo": "Sahumerios01",
+        "imagen": "./Images/sahumerios1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios02",
+        "titulo": "Sahumerios02",
+        "imagen": "./Images/sahumerios2.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios03",
+        "titulo": "Sahumerios03",
+        "imagen": "./Images/sahumerios3.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios04",
+        "titulo": "Sahumerios04",
+        "imagen": "./Images/sahumerios4.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "deco01",
+        "titulo": "Decohogar01",
+        "imagen": "./Images/decohogar1.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco02",
+        "titulo": "Decohogar02",
+        "imagen": "./Images/decohogar2.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco03",
+        "titulo": "Decohogar03",
+        "imagen": "./Images/decohogar3.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco04",
+        "titulo": "Decohogar04",
+        "imagen": "./Images/decohogar4.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco05",
+        "titulo": "Decohogar05",
+        "imagen": "./Images/decohogar5.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco06",
+        "titulo": "Decohogar06",
+        "imagen": "./Images/decohogar6.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco07",
+        "titulo": "Decohogar07",
+        "imagen": "./Images/decohogar7.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco08",
+        "titulo": "Decohogar08",
+        "imagen": "./Images/decohogar8.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco09",
+        "titulo": "Decohogar09",
+        "imagen": "./Images/decohogar9.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    {
+        "id": "deco10",
+        "titulo": "Decohogar10",
+        "imagen": "./Images/decohogar10.jpg",
+        "categoria":{
+            "nombre": "deco",
+            "id":"deco"
+        },
+        "precio": 500
+
+    },
+    
+    {
+        "id": "sahumerios05",
+        "titulo": "Bombas01",
+        "imagen": "./Images/bombas1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios06",
+        "titulo": "Bombas01",
+        "imagen": "./Images/bombas1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios07",
+        "titulo": "Bombas01",
+        "imagen": "./Images/bombas1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios08",
+        "titulo": "Bombas01",
+        "imagen": "./Images/bombas1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios09",
+        "titulo": "Bombas02",
+        "imagen": "./Images/bombas2.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios10",
+        "titulo": "Bombas03",
+        "imagen": "./Images/bombas3.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios11",
+        "titulo": "Bombas04",
+        "imagen": "./Images/bombas4.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios12",
+        "titulo": "Bombas05",
+        "imagen": "./Images/bombas5.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios13",
+        "titulo": "Geometria01",
+        "imagen": "./Images/geometria1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios14",
+        "titulo": "Geometria02",
+        "imagen": "./Images/geometria2.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios15",
+        "titulo": "Geometria03",
+        "imagen": "./Images/geometria3.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios16",
+        "titulo": "Geometria04",
+        "imagen": "./Images/geometria4.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+      {
+        "id": "sahumerios17",
+        "titulo": "Perlas01",
+        "imagen": "./Images/perlas1.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios18",
+        "titulo": "Perlas02",
+        "imagen": "./Images/perlas2.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios19",
+        "titulo": "Perlas03",
+        "imagen": "./Images/perlas3.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    },
+    {
+        "id": "sahumerios20",
+        "titulo": "Perlas04",
+        "imagen": "./Images/perlas4.jpg",
+        "categoria":{
+            "nombre": "Sahumerios",
+            "id":"sahumos"
+        },
+        "precio": 300
+
+    }
+ 
+]
